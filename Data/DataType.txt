@@ -6,4 +6,7 @@ String
 
 1. git pull
 2. Make chnages to folder
+3. Staging -> git add .
+4. Commit -> git commit -m "Message"
+5. Push -> git push origin main
 
