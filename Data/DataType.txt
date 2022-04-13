@@ -1,0 +1,9 @@
+Int
+Float
+String
+
+0. CLone the repo
+
+1. git pull
+2. Make chnages to folder
+
